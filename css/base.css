@@ -58,7 +58,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Work Sans", "Helvetica Neue", sans-serif;
+  font-family: "Roboto Mono", "Helvetica Neue", sans-serif;
 }
 
 @media screen and (max-width: 768px) {
@@ -150,6 +150,8 @@ section.content p a:hover, section.content p a:active, section.content p a:focus
 
 h1.lg {
   font-size: 5em;
+  font-weight:100;
+  color: #000;
 }
 
 @media screen and (max-width: 768px) {
@@ -1198,7 +1200,7 @@ img.standalone {
 }
 
 .bg.faded-subtle {
-  opacity: .6;
+  opacity: .4;
 }
 
 .btn {
